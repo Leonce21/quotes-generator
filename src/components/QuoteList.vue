@@ -18,7 +18,7 @@ export default {
 <style lang="scss" scoped>
 
 .quote-list{
-    padding: 32px;
+    padding: 33px;
     max-width: 750px;
     margin: 0 auto;
 
