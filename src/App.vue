@@ -67,7 +67,7 @@ export default {
   font-family: 'Fira Sans', sans-serif;
 }
 :root{
-  --primary: #D81E5B;
+  --primary: #D81E4B;
   --secondary: #8A4FFF;
   --tertiary: #32CBFF;
   --dark: #131A26;
